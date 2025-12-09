@@ -33,11 +33,27 @@
 - 📚 Always learning, always improving  
 
 ---
+## 🧾 **Quick Summary**
+- ⚡ Strong in: **C++**, **Python**, **JavaScript**, **DSA**, **Problem Solving**  
+- 🧠 Builds: **AI Apps**, **Full-Stack Web Apps**, **Portfolio Systems**, **React Projects**  
+- 🔥 Experience in: Django, APIs, Automation, Web Scraping, NLP, AI Models  
+- 💡 Love creating projects that are **practical and useful**, not just tutorials  
+- 🏆 Active on *LeetCode*, building foundations for interviews & CP  
+- 🌍 Open to: Internships • Freelance work • Tech collaborations  
 
-# 🛠️ **Tech Arsenal**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,react,js,html,css,tailwind,cpp,java,mysql,postgres,git,github,linux,vscode,figma&theme=light" />
-</p>
+---
+---
+
+# 🛠️ Tech & Tools
+
+### ⭐ Languages  
+<img src="https://skillicons.dev/icons?i=cpp,python,javascript,typescript,java" height="60" />
+
+### ⭐ Frameworks & Libraries  
+<img src="https://skillicons.dev/icons?i=react,django,flask,nextjs,tailwind" height="60" />
+
+### ⭐ Tools & DevOps  
+<img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,linux" height="60" />
 
 ---
 
