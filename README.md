@@ -98,7 +98,7 @@
       <img src="https://img.shields.io/badge/Skill%20Level-⭐️⭐️⭐️⭐️-brightgreen" /><br>
       🔗 <a href="https://github.com/123kalpesh/AI_Voice-to-Notes_Converter">GitHub</a>
     </td>
-
+<tr></tr>
     <!-- Project 2 -->
     <td align="center" width="250px">
       <b>🛒 E-Commerce Mini App</b><br>
@@ -107,7 +107,7 @@
       <img src="https://img.shields.io/badge/Skill%20Level-⭐️⭐️⭐️⭐️-blue" /><br>
       🔗 <a href="https://github.com/123kalpesh/E-Commerce-Mini-App">GitHub</a>
     </td>
-
+ <tr>
     <!-- Project 3 -->
     <td align="center" width="250px">
       <b>📘 Contract-Based Farming System</b><br>
@@ -129,7 +129,7 @@
       <img src="https://img.shields.io/badge/Skill%20Level-⭐️⭐️⭐️-yellow" /><br>
       🔗 <a href="https://github.com/123kalpesh/AI-Chatbot-NLP">GitHub</a>
     </td>
-
+   <tr>
     <!-- Project 5 -->
     <td align="center" width="250px">
       <b>💻 Aarogyanidhanam: AI Diagnostic Tool</b><br>
