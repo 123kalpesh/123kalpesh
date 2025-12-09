@@ -71,6 +71,32 @@
   <img src="https://img.shields.io/badge/VsCode-85%25-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-70%25-FCC624?style=for-the-badge&logo=linux&logoColor=white"/>
 </p>
+
+## 🤖 AI / ML Skills
+
+<p align="center">
+
+  <!-- AI Skill -->
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-90%25-00c853?style=for-the-badge&labelColor=000000&logo=opencv&logoColor=white" />
+
+  <!-- Machine Learning -->
+  <img src="https://img.shields.io/badge/Machine%20Learning-85%25-2962ff?style=for-the-badge&labelColor=000000&logo=tensorflow&logoColor=white" />
+
+  <!-- Deep Learning -->
+  <img src="https://img.shields.io/badge/Deep%20Learning-80%25-d50000?style=for-the-badge&labelColor=000000&logo=pytorch&logoColor=white" />
+
+  <!-- NLP -->
+  <img src="https://img.shields.io/badge/NLP-75%25-ffd600?style=for-the-badge&labelColor=000000&logo=transformers&logoColor=white" />
+
+  <!-- Computer Vision -->
+  <img src="https://img.shields.io/badge/Computer%20Vision-88%25-ff6d00?style=for-the-badge&labelColor=000000&logo=opencv&logoColor=white" />
+
+</p>
+
+<p align="center">
+  <sub>🔵 Circular-style skill visualization using animated badges</sub>
+</p>
+
 ---
 
 # 📈 LeetCode Problem Solving Progress
