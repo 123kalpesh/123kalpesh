@@ -125,58 +125,51 @@
 
 <div align="center">
 
-<table>
-  <tr>
-    <!-- Project 1 -->
-    <td align="center" width="250px">
-      <b>🎯 AI Voice-to-Notes Converter</b><br>
-      <sub>Python, Speech Recognition, AI Noise Filtering</sub><br>
-      Converts speech into notes with AI-powered noise cleaning.<br>
-      <img src="https://img.shields.io/badge/Skill%20Level-⭐️⭐️⭐️⭐️-brightgreen" /><br>
-      🔗 <a href="https://github.com/123kalpesh/AI_Voice-to-Notes_Converter">GitHub</a>
-    </td>
-<tr></tr>
-    <!-- Project 2 -->
-    <td align="center" width="250px">
-      <b>🛒 E-Commerce Mini App</b><br>
-      <sub>Django, React, JWT, TailwindCSS</sub><br>
-      Full-stack e-commerce app with product CRUD, cart, and payment.<br>
-      <img src="https://img.shields.io/badge/Skill%20Level-⭐️⭐️⭐️⭐️-blue" /><br>
-      🔗 <a href="https://github.com/123kalpesh/E-Commerce-Mini-App">GitHub</a>
-    </td>
- <tr>
-    <!-- Project 3 -->
-    <td align="center" width="250px">
-      <b>📘 Contract-Based Farming System</b><br>
-      <sub>Django, React, REST API</sub><br>
-      Tracks farmer contracts, crop lifecycle, and buyer negotiations.<br>
-      <img src="https://img.shields.io/badge/Skill%20Level-⭐️⭐️⭐️⭐️⭐️-brightgreen" /><br>
-      🔗 <a href="https://github.com/123kalpesh/Contract-Based-Farming">GitHub</a>
-    </td>
-  </tr>
+### 🎯 AI Voice-to-Notes Converter
+**Tech Stack:** Python, Speech Recognition, AI Noise Filtering  
+**Description:** Converts speech into notes with AI-powered noise cleaning, supports multiple languages, and allows easy export to text files. Perfect for lectures, meetings, and personal notes.  
+**Skill Level:** <img src="https://img.shields.io/badge/Skill%20Level-⭐️⭐️⭐️⭐️-brightgreen" />  
+🔗 [GitHub Repository](https://github.com/123kalpesh/AI_Voice-to-Notes_Converter)
 
-  <tr><td colspan="3"><br></td></tr> <!-- spacing -->
+---
 
-  <tr>
-    <!-- Project 4 -->
-    <td align="center" width="250px">
-      <b>🧠 AI Chatbot / NLP Project</b><br>
-      <sub>Python, NLP, ML Models</sub><br>
-      Unified AI chatbot with NLP and ML integration for real-time responses.<br>
-      <img src="https://img.shields.io/badge/Skill%20Level-⭐️⭐️⭐️-yellow" /><br>
-      🔗 <a href="https://github.com/123kalpesh/AI-Chatbot-NLP">GitHub</a>
-    </td>
-   <tr>
-    <!-- Project 5 -->
-    <td align="center" width="250px">
-      <b>💻 Aarogyanidhanam: AI Diagnostic Tool</b><br>
-      <sub>Python, AI, ML, Healthcare</sub><br>
-      AI-based diagnostic tool for medical image analysis and predictions.<br>
-      <img src="https://img.shields.io/badge/Skill%20Level-⭐️⭐️⭐️⭐️⭐️-red" /><br>
-      🔗 <a href="https://github.com/123kalpesh/Aarogyanidhanam">GitHub</a>
-    </td>
-  </tr>
-</table>
+### 🛒 E-Commerce Mini App
+**Tech Stack:** Django, React, JWT Auth, TailwindCSS, REST API  
+**Description:** Full-stack e-commerce application with product CRUD operations, shopping cart, payment integration, user authentication, and responsive design. Demonstrates end-to-end web development skills.  
+**Skill Level:** <img src="https://img.shields.io/badge/Skill%20Level-⭐️⭐️⭐️⭐️-blue" />  
+🔗 [GitHub Repository](https://github.com/123kalpesh/E-Commerce-Mini-App)
+
+---
+
+### 📘 Contract-Based Farming System
+**Tech Stack:** Django, React, REST API  
+**Description:** Tracks farmer contracts, crop lifecycle, and buyer-farmer negotiations. Includes dashboard for monitoring contract progress, notifications for updates, and analytics for crop management.  
+**Skill Level:** <img src="https://img.shields.io/badge/Skill%20Level-⭐️⭐️⭐️⭐️⭐️-brightgreen" />  
+🔗 [GitHub Repository](https://github.com/123kalpesh/Contract-Based-Farming)
+
+---
+
+### 🧠 AI Chatbot / NLP Project
+**Tech Stack:** Python, NLP, ML Models  
+**Description:** Unified AI chatbot integrating NLP and ML for real-time intelligent responses. Capable of handling multi-turn conversations and providing context-aware answers.  
+**Skill Level:** <img src="https://img.shields.io/badge/Skill%20Level-⭐️⭐️⭐️-yellow" />  
+🔗 [GitHub Repository](https://github.com/123kalpesh/AI-Chatbot-NLP)
+
+---
+
+### 💻 Aarogyanidhanam: AI Diagnostic Tool
+**Tech Stack:** Python, AI, ML, Healthcare  
+**Description:** AI-based diagnostic tool for medical image analysis and predictive diagnostics. Supports multiple disease detection, risk prediction, and generates easy-to-read diagnostic reports for healthcare professionals.  
+**Skill Level:** <img src="https://img.shields.io/badge/Skill%20Level-⭐️⭐️⭐️⭐️⭐️-red" />  
+🔗 [GitHub Repository](https://github.com/123kalpesh/Aarogyanidhanam)
+
+---
+
+### 🐍 Snake Game
+**Tech Stack:** Canvas, JavaScript  
+**Description:** Classic Snake Game with smooth animation, high-speed gameplay, score tracking, and responsive controls. A fun project demonstrating interactive front-end programming.  
+**Skill Level:** <img src="https://img.shields.io/badge/Skill%20Level-⭐️⭐️⭐️-orange" />  
+🔗 [GitHub Repository](https://github.com/123kalpesh/Snake-Game)
 
 </div>
 
