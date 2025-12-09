@@ -25,25 +25,30 @@
 # ⚡ About Me
 - 🎓 5th Semester Engineering Student  
 - 🎯 Target: **Air Force Academy (AFA)**  
-- 💻 Passionate about **Full-Stack Dev, AI/ML, NLP**  
+- 💻 Passionate about **Full-Stack Development, AI/ML, NLP**  
 - 🧠 Solved **177+ LeetCode Problems**  
-- 🚀 Building **high-impact real-world apps**  
-- 📚 Always learning, always improving  
+- 🚀 Building **real-world applications with impact**  
+- 📚 Lifelong learner and problem solver  
 
 ---
 
-# 🛠 Skills & Animated Progress Bars
-
-### Languages
+# 🛠 My Skills
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-90%25-brightgreen?style=for-the-badge&logo=python&logoColor=white&animation=spin"/>
+  <b>Languages</b>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-90%25-brightgreen?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-85%25-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-80%25-yellow?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Java-75%25-red?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-70%25-orange?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-### Frameworks & Libraries
+<p align="center">
+  <b>Frameworks & Libraries</b>
+</p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/React-85%25-61dafb?style=for-the-badge&logo=react&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-90%25-092E20?style=for-the-badge&logo=django&logoColor=white"/>
@@ -52,7 +57,10 @@
   <img src="https://img.shields.io/badge/Tailwind-85%25-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 </p>
 
-### Tools & Platforms
+<p align="center">
+  <b>Tools & Platforms</b>
+</p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Git-90%25-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-95%25-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -63,7 +71,7 @@
 
 ---
 
-# 📊 GitHub Stats & Contribution Graphs
+# 📊 GitHub Stats & Graphs
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=123kalpesh&theme=react-dark&hide_border=true" width="48%"/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=123kalpesh&theme=react-dark&hide_border=true" width="48%"/>
@@ -76,25 +84,35 @@
 
 ---
 
-# 🚀 Featured Projects with Smooth Progress Bars
+# 🚀 Top Showcase Projects
 
-| Project | Description | Completion |
-|---------|-------------|------------|
-| **AI Voice-to-Notes Converter** | Converts speech → text, AI noise cleaning, cross-platform | ![90%](https://img.shields.io/badge/Progress-90%25-brightgreen) |
-| **E-Commerce Mini App** | Cart + Payment, Product CRUD, JWT Auth | ![85%](https://img.shields.io/badge/Progress-85%25-blue) |
-| **Contract-Based Farming System** | Tracks contracts, crop lifecycle, buyer-farmer negotiation | ![80%](https://img.shields.io/badge/Progress-80%25-orange) |
-| **Snake Game** | Canvas + JS, smooth animation, classic gameplay | ![75%](https://img.shields.io/badge/Progress-75%25-red) |
+<div align="center">
 
----
+### 🎯 AI Voice-to-Notes Converter
+**Tech:** Python, Speech Recognition, AI Noise Filtering  
+**Description:** Converts speech into notes with AI-powered noise cleaning.  
+![Progress](https://img.shields.io/badge/Skill%20Level-⭐️⭐️⭐️⭐️⭐️-brightgreen)  
+🔗 [GitHub](https://github.com/123kalpesh/AI_Voice-to-Notes_Converter)
 
-# 🧠 AI & ML Projects
-<p align="center">
-  <img src="https://img.shields.io/badge/AI_Radiology_Assistant-85%25-red?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/NLP_Chatbots-80%25-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Unified_AI_Chatbot-75%25-yellow?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/OCR_+_Data_Extraction-70%25-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Agri_Decision_Models-80%25-orange?style=for-the-badge"/>
-</p>
+### 🛒 E-Commerce Mini App
+**Tech:** Django, React, JWT, TailwindCSS  
+**Description:** Full-stack e-commerce app with product CRUD, cart, and payment.  
+![Progress](https://img.shields.io/badge/Skill%20Level-⭐️⭐️⭐️⭐️-blue)  
+🔗 [GitHub](https://github.com/123kalpesh/E-Commerce-Mini-App)
+
+### 📘 Contract-Based Farming System
+**Tech:** Django, React, REST API  
+**Description:** Tracks farmer contracts, crop lifecycle, and buyer negotiations.  
+![Progress](https://img.shields.io/badge/Skill%20Level-⭐️⭐️⭐️⭐️-orange)  
+🔗 [GitHub](https://github.com/123kalpesh/Contract-Based-Farming)
+
+### 🧠 AI Chatbot / NLP Project
+**Tech:** Python, NLP, ML Models  
+**Description:** Unified AI chatbot with NLP and ML integration for real-time responses.  
+![Progress](https://img.shields.io/badge/Skill%20Level-⭐️⭐️⭐️-yellow)  
+🔗 [GitHub](https://github.com/123kalpesh/AI-Chatbot-NLP)
+
+</div>
 
 ---
 
