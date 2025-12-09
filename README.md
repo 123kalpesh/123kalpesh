@@ -123,75 +123,59 @@
 
 # 🚀 Top Showcase Projects
 
-<div style="display:flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+<div align="center">
 
-  <!-- Project 1 -->
-  <div style="width: 250px; height: 200px; background: #4caf50; border-radius: 15px; padding: 15px; transition: 0.3s; color:white; box-shadow: 0px 5px 15px rgba(0,0,0,0.3);"
-       onmouseover="this.style.background='#66bb6a'" 
-       onmouseout="this.style.background='#4caf50'">
-    <h3>🎯 AI Voice-to-Notes Converter</h3>
-    <p>Python, Speech Recognition, AI Noise Filtering</p>
-    <p>Converts speech into notes with AI-powered noise cleaning.</p>
-    <img src="https://img.shields.io/badge/Skill-⭐️⭐️⭐️⭐️-brightgreen" />
-    <br><a href="https://github.com/123kalpesh/AI_Voice-to-Notes_Converter" style="color:white; text-decoration: underline;">GitHub</a>
-  </div>
+<table>
+  <tr>
+    <td align="center" width="300" bgcolor="#4caf50" style="border-radius:10px;padding:15px;color:white;">
+      <b>🎯 AI Voice-to-Notes Converter</b><br>
+      <sub>Python, Speech Recognition, AI Noise Filtering</sub><br>
+      Converts speech into notes with AI-powered noise cleaning.<br>
+      <img src="https://img.shields.io/badge/Skill-⭐️⭐️⭐️⭐️-brightgreen" /><br>
+      🔗 <a href="https://github.com/123kalpesh/AI_Voice-to-Notes_Converter" style="color:white;">GitHub</a>
+    </td>
+<
+    <td align="center" width="300" bgcolor="#2196f3" style="border-radius:10px;padding:15px;color:white;">
+      <b>🛒 E-Commerce Mini App</b><br>
+      <sub>Django, React, JWT, TailwindCSS</sub><br>
+      Full-stack e-commerce app with product CRUD, cart, and payment.<br>
+      <img src="https://img.shields.io/badge/Skill-⭐️⭐️⭐️⭐️-blue" /><br>
+      🔗 <a href="https://github.com/123kalpesh/E-Commerce-Mini-App" style="color:white;">GitHub</a>
+    </td>
 
-  <!-- Project 2 -->
-  <div style="width: 250px; height: 200px; background: #2196f3; border-radius: 15px; padding: 15px; transition: 0.3s; color:white; box-shadow: 0px 5px 15px rgba(0,0,0,0.3);"
-       onmouseover="this.style.background='#42a5f5'" 
-       onmouseout="this.style.background='#2196f3'">
-    <h3>🛒 E-Commerce Mini App</h3>
-    <p>Django, React, JWT, TailwindCSS</p>
-    <p>Full-stack e-commerce app with product CRUD, cart, and payment.</p>
-    <img src="https://img.shields.io/badge/Skill-⭐️⭐️⭐️⭐️-blue" />
-    <br><a href="https://github.com/123kalpesh/E-Commerce-Mini-App" style="color:white; text-decoration: underline;">GitHub</a>
-  </div>
+    <td align="center" width="300" bgcolor="#ff9800" style="border-radius:10px;padding:15px;color:white;">
+      <b>📘 Contract-Based Farming System</b><br>
+      <sub>Django, React, REST API</sub><br>
+      Tracks farmer contracts, crop lifecycle, and buyer negotiations.<br>
+      <img src="https://img.shields.io/badge/Skill-⭐️⭐️⭐️⭐️⭐️-brightgreen" /><br>
+      🔗 <a href="https://github.com/123kalpesh/Contract-Based-Farming" style="color:white;">GitHub</a>
+    </td>
+  </tr>
 
-  <!-- Project 3 -->
-  <div style="width: 250px; height: 200px; background: #ff9800; border-radius: 15px; padding: 15px; transition: 0.3s; color:white; box-shadow: 0px 5px 15px rgba(0,0,0,0.3);"
-       onmouseover="this.style.background='#ffb74d'" 
-       onmouseout="this.style.background='#ff9800'">
-    <h3>📘 Contract-Based Farming System</h3>
-    <p>Django, React, REST API</p>
-    <p>Tracks farmer contracts, crop lifecycle, and buyer negotiations.</p>
-    <img src="https://img.shields.io/badge/Skill-⭐️⭐️⭐️⭐️⭐️-brightgreen" />
-    <br><a href="https://github.com/123kalpesh/Contract-Based-Farming" style="color:white; text-decoration: underline;">GitHub</a>
-  </div>
+  <tr><td colspan="3"><br></td></tr>
+<
+  <tr>
+    <td align="center" width="300" bgcolor="#9c27b0" style="border-radius:10px;padding:15px;color:white;">
+      <b>🧠 AI Chatbot / NLP Project</b><br>
+      <sub>Python, NLP, ML Models</sub><br>
+      Unified AI chatbot with NLP and ML integration.<br>
+      <img src="https://img.shields.io/badge/Skill-⭐️⭐️⭐️-yellow" /><br>
+      🔗 <a href="https://github.com/123kalpesh/AI-Chatbot-NLP" style="color:white;">GitHub</a>
+    </td>
 
-  <!-- Project 4 -->
-  <div style="width: 250px; height: 200px; background: #9c27b0; border-radius: 15px; padding: 15px; transition: 0.3s; color:white; box-shadow: 0px 5px 15px rgba(0,0,0,0.3);"
-       onmouseover="this.style.background='#ba68c8'" 
-       onmouseout="this.style.background='#9c27b0'">
-    <h3>🧠 AI Chatbot / NLP Project</h3>
-    <p>Python, NLP, ML Models</p>
-    <p>Unified AI chatbot with NLP and ML integration for real-time responses.</p>
-    <img src="https://img.shields.io/badge/Skill-⭐️⭐️⭐️-yellow" />
-    <br><a href="https://github.com/123kalpesh/AI-Chatbot-NLP" style="color:white; text-decoration: underline;">GitHub</a>
-  </div>
+  <  <td align="center" width="300" bgcolor="#f44336" style="border-radius:10px;padding:15px;color:white;">
+      <b>💻 Aarogyanidhanam: AI Diagnostic Tool</b><br>
+      <sub>Python, AI, ML, Healthcare</sub><br>
+      AI-based diagnostic tool for medical image analysis.<br>
+      <img src="https://img.shields.io/badge/Skill-⭐️⭐️⭐️⭐️⭐️-red" /><br>
+      🔗 <a href="https://github.com/123kalpesh/Aarogyanidhanam" style="color:white;">GitHub</a>
+    </td>
 
-  <!-- Project 5 -->
-  <div style="width: 250px; height: 200px; background: #f44336; border-radius: 15px; padding: 15px; transition: 0.3s; color:white; box-shadow: 0px 5px 15px rgba(0,0,0,0.3);"
-       onmouseover="this.style.background='#e57373'" 
-       onmouseout="this.style.background='#f44336'">
-    <h3>💻 Aarogyanidhanam: AI Diagnostic Tool</h3>
-    <p>Python, AI, ML, Healthcare</p>
-    <p>AI-based diagnostic tool for medical image analysis and predictions.</p>
-    <img src="https://img.shields.io/badge/Skill-⭐️⭐️⭐️⭐️⭐️-red" />
-    <br><a href="https://github.com/123kalpesh/Aarogyanidhanam" style="color:white; text-decoration: underline;">GitHub</a>
-  </div>
-
-  <!-- Project 6 -->
-  <div style="width: 250px; height: 200px; background: #ff5722; border-radius: 15px; padding: 15px; transition: 0.3s; color:white; box-shadow: 0px 5px 15px rgba(0,0,0,0.3);"
-       onmouseover="this.style.background='#ff8a65'" 
-       onmouseout="this.style.background='#ff5722'">
-    <h3>🐍 Snake Game</h3>
-    <p>Canvas, JavaScript</p>
-    <p>Classic game with smooth animation, high-speed gameplay, and score tracking.</p>
-    <img src="https://img.shields.io/badge/Skill-⭐️⭐️⭐️-orange" />
-    <br><a href="https://github.com/123kalpesh/Snake-Game" style="color:white; text-decoration: underline;">GitHub</a>
-  </div>
+  </tr>
+</table>
 
 </div>
+
 
 
 # 🎨 Portfolio
