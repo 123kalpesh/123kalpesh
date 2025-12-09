@@ -88,29 +88,67 @@
 
 <div align="center">
 
-### 🎯 AI Voice-to-Notes Converter
-**Tech:** Python, Speech Recognition, AI Noise Filtering  
-**Description:** Converts speech into notes with AI-powered noise cleaning.  
-![Progress](https://img.shields.io/badge/Skill%20Level-⭐️⭐️⭐️⭐️⭐️-brightgreen)  
-🔗 [GitHub](https://github.com/123kalpesh/AI_Voice-to-Notes_Converter)
+<table>
+  <tr>
+    <!-- Project 1 -->
+    <td align="center" width="250px">
+      <b>🎯 AI Voice-to-Notes Converter</b><br>
+      <sub>Python, Speech Recognition, AI Noise Filtering</sub><br>
+      Converts speech into notes with AI-powered noise cleaning.<br>
+      <img src="https://img.shields.io/badge/Skill%20Level-⭐️⭐️⭐️⭐️-brightgreen" /><br>
+      🔗 <a href="https://github.com/123kalpesh/AI_Voice-to-Notes_Converter">GitHub</a>
+    </td>
 
-### 🛒 E-Commerce Mini App
-**Tech:** Django, React, JWT, TailwindCSS  
-**Description:** Full-stack e-commerce app with product CRUD, cart, and payment.  
-![Progress](https://img.shields.io/badge/Skill%20Level-⭐️⭐️⭐️⭐️-blue)  
-🔗 [GitHub](https://github.com/123kalpesh/E-Commerce-Mini-App)
+    <!-- Project 2 -->
+    <td align="center" width="250px">
+      <b>🛒 E-Commerce Mini App</b><br>
+      <sub>Django, React, JWT, TailwindCSS</sub><br>
+      Full-stack e-commerce app with product CRUD, cart, and payment.<br>
+      <img src="https://img.shields.io/badge/Skill%20Level-⭐️⭐️⭐️⭐️-blue" /><br>
+      🔗 <a href="https://github.com/123kalpesh/E-Commerce-Mini-App">GitHub</a>
+    </td>
 
-### 📘 Contract-Based Farming System
-**Tech:** Django, React, REST API  
-**Description:** Tracks farmer contracts, crop lifecycle, and buyer negotiations.  
-![Progress](https://img.shields.io/badge/Skill%20Level-⭐️⭐️⭐️⭐️-orange)  
-🔗 [GitHub](https://github.com/123kalpesh/Contract-Based-Farming)
+    <!-- Project 3 -->
+    <td align="center" width="250px">
+      <b>📘 Contract-Based Farming System</b><br>
+      <sub>Django, React, REST API</sub><br>
+      Tracks farmer contracts, crop lifecycle, and buyer negotiations.<br>
+      <img src="https://img.shields.io/badge/Skill%20Level-⭐️⭐️⭐️⭐️⭐️-brightgreen" /><br>
+      🔗 <a href="https://github.com/123kalpesh/Contract-Based-Farming">GitHub</a>
+    </td>
+  </tr>
 
-### 🧠 AI Chatbot / NLP Project
-**Tech:** Python, NLP, ML Models  
-**Description:** Unified AI chatbot with NLP and ML integration for real-time responses.  
-![Progress](https://img.shields.io/badge/Skill%20Level-⭐️⭐️⭐️-yellow)  
-🔗 [GitHub](https://github.com/123kalpesh/AI-Chatbot-NLP)
+  <tr><td colspan="3"><br></td></tr> <!-- spacing -->
+
+  <tr>
+    <!-- Project 4 -->
+    <td align="center" width="250px">
+      <b>🧠 AI Chatbot / NLP Project</b><br>
+      <sub>Python, NLP, ML Models</sub><br>
+      Unified AI chatbot with NLP and ML integration for real-time responses.<br>
+      <img src="https://img.shields.io/badge/Skill%20Level-⭐️⭐️⭐️-yellow" /><br>
+      🔗 <a href="https://github.com/123kalpesh/AI-Chatbot-NLP">GitHub</a>
+    </td>
+
+    <!-- Project 5 -->
+    <td align="center" width="250px">
+      <b>💻 Aarogyanidhanam: AI Diagnostic Tool</b><br>
+      <sub>Python, AI, ML, Healthcare</sub><br>
+      AI-based diagnostic tool for medical image analysis and predictions.<br>
+      <img src="https://img.shields.io/badge/Skill%20Level-⭐️⭐️⭐️⭐️⭐️-red" /><br>
+      🔗 <a href="https://github.com/123kalpesh/Aarogyanidhanam">GitHub</a>
+    </td>
+
+    <!-- Project 6 -->
+    <td align="center" width="250px">
+      <b>🐍 Snake Game</b><br>
+      <sub>Canvas, JavaScript</sub><br>
+      Classic game with smooth animation and high-speed gameplay.<br>
+      <img src="https://img.shields.io/badge/Skill%20Level-⭐️⭐️⭐️-orange" /><br>
+      🔗 <a href="https://github.com/123kalpesh/Snake-Game">GitHub</a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
