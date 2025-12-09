@@ -14,32 +14,26 @@
 
 ## 🔗 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/kalpesh-desale-401566393/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=Linkedin&logoColor=white"/>
-  </a>
-  <a href="https://leetcode.com/u/KalpeshDesale_938707/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-  <a href="https://my-portfolio-nine-delta-80.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
+  <a href="https://www.linkedin.com/in/kalpesh-desale-401566393/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/KalpeshDesale_938707/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  <a href="https://my-portfolio-nine-delta-80.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
 ---
 
 # ⚡ About Me
 - 🎓 5th Semester Engineering Student  
-- 🎯 Aiming for **Air Force Academy (AFA)**  
-- 💻 Passionate about **Full-Stack Dev, AI, ML, NLP**  
+- 🎯 Target: **Air Force Academy (AFA)**  
+- 💻 Passionate about **Full-Stack Dev, AI/ML, NLP**  
 - 🧠 Solved **177+ LeetCode Problems**  
 - 🚀 Building **high-impact real-world apps**  
 - 📚 Always learning, always improving  
 
 ---
 
-# 🛠️ Skills & Tech Graphs
+# 🛠 Skills & Expertise
 
-## 💻 Programming Languages
+### Languages
 <p align="center">
   <img src="https://img.shields.io/badge/Python-90%25-brightgreen?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-85%25-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
@@ -48,16 +42,16 @@
   <img src="https://img.shields.io/badge/SQL-70%25-orange?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-## ⚛ Frameworks & Libraries
+### Frameworks & Libraries
 <p align="center">
   <img src="https://img.shields.io/badge/React-85%25-61dafb?style=for-the-badge&logo=react&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-90%25-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-80%25-000000?style=for-the-badge&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/Next.js-75%25-black?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-85%25-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind-85%25-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 </p>
 
-## 🛠 Tools & DevOps
+### Tools & Platforms
 <p align="center">
   <img src="https://img.shields.io/badge/Git-90%25-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-95%25-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -68,8 +62,7 @@
 
 ---
 
-# 📊 GitHub & Contribution Graphs
-
+# 📊 GitHub Stats & Graphs
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=123kalpesh&theme=react-dark&hide_border=true" width="48%"/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=123kalpesh&theme=react-dark&hide_border=true" width="48%"/>
@@ -82,14 +75,31 @@
 
 ---
 
-# 🚀 Projects Highlights
+# 🚀 Featured Projects
 
-| Project | Features | Link |
-|---------|---------|------|
-| AI Voice-to-Notes | Speech → Text, Noise Cleaning | [GitHub](https://github.com/123kalpesh/AI_Voice-to-Notes_Converter) |
-| E-Commerce Mini App | Cart, Payment, CRUD, JWT Auth | [GitHub](https://github.com/123kalpesh/E-Commerce-Mini-App) |
-| Contract Farming | Tracks Contracts, Crop Lifecycle | [GitHub](https://github.com/123kalpesh/Contract-Based-Farming) |
-| Snake Game | Canvas + JS, Smooth Animation | [GitHub](https://github.com/123kalpesh/Snake-Game) |
+<div align="center">
+
+### 🎯 AI Voice-to-Notes Converter
+![GIF](https://media.giphy.com/media/l0MYy6aPhK9hOZj1C/giphy.gif)  
+**Features:** Speech → Text, AI Noise Cleaning, Cross-platform  
+🔗 [GitHub](https://github.com/123kalpesh/AI_Voice-to-Notes_Converter)
+
+### 🛒 E-Commerce Mini App
+![GIF](https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif)  
+**Features:** Cart, Payment, Product CRUD, JWT Auth  
+🔗 [GitHub](https://github.com/123kalpesh/E-Commerce-Mini-App)
+
+### 📘 Contract-Based Farming System
+![GIF](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)  
+**Features:** Tracks Contracts, Crop Lifecycle, Buyer-Farmer Negotiation  
+🔗 [GitHub](https://github.com/123kalpesh/Contract-Based-Farming)
+
+### 🐍 Snake Game
+![GIF](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif)  
+**Features:** Classic Canvas Game, Smooth Animation  
+🔗 [GitHub](https://github.com/123kalpesh/Snake-Game)
+
+</div>
 
 ---
 
@@ -106,7 +116,6 @@
 
 # 🎨 Portfolio
 👉 [Live Portfolio](https://my-portfolio-nine-delta-80.vercel.app/)  
-✅ AI & Python Projects Included  
 
 ---
 
@@ -120,7 +129,5 @@
 
 ---
 
-# 🏁 Final Quote
-<p align="center">
-  <i>"Code it. Break it. Fix it. Master it." 🖤</i>
-</p>
+# 🏁 Quote
+<p align="center"><i>"Code it. Break it. Fix it. Master it." 🖤</i></p>
