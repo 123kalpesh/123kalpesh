@@ -32,18 +32,26 @@
 
 ---
 
-# 🛠 My Skills
 
-## ⭐ Languages  
+
+
+# 🛠 My Skills
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-90%25-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-85%25-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-80%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Java-75%25-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-70%25-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <b>Languages</b>
 </p>
 
-## ⭐ Frameworks & Libraries  
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-90%25-brightgreen?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-85%25-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-80%25-yellow?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Java-75%25-red?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-70%25-orange?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+<p align="center">
+  <b>Frameworks & Libraries</b>
+</p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/React-85%25-61dafb?style=for-the-badge&logo=react&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-90%25-092E20?style=for-the-badge&logo=django&logoColor=white"/>
@@ -52,7 +60,10 @@
   <img src="https://img.shields.io/badge/Tailwind-85%25-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 </p>
 
-## ⭐ Tools & Platforms  
+<p align="center">
+  <b>Tools & Platforms</b>
+</p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Git-90%25-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-95%25-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -61,27 +72,58 @@
   <img src="https://img.shields.io/badge/Linux-70%25-FCC624?style=for-the-badge&logo=linux&logoColor=white"/>
 </p>
 
----
-
 ## 🤖 AI / ML Skills
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-90%25-00c853?style=for-the-badge&labelColor=000000&logo=OpenAI&logoColor=white" />
+
+  <!-- AI Skill -->
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-90%25-00c853?style=for-the-badge&labelColor=000000&logo=opencv&logoColor=white" />
+
+  <!-- Machine Learning -->
   <img src="https://img.shields.io/badge/Machine%20Learning-85%25-2962ff?style=for-the-badge&labelColor=000000&logo=tensorflow&logoColor=white" />
+
+  <!-- Deep Learning -->
   <img src="https://img.shields.io/badge/Deep%20Learning-80%25-d50000?style=for-the-badge&labelColor=000000&logo=pytorch&logoColor=white" />
+
+  <!-- NLP -->
   <img src="https://img.shields.io/badge/NLP-75%25-ffd600?style=for-the-badge&labelColor=000000&logo=transformers&logoColor=white" />
+
+  <!-- Computer Vision -->
   <img src="https://img.shields.io/badge/Computer%20Vision-88%25-ff6d00?style=for-the-badge&labelColor=000000&logo=opencv&logoColor=white" />
+
 </p>
 
----
-
-# 📈 LeetCode Progress (Animated)
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/KalpeshDesale_938707?theme=dark&font=Roboto&ext=activity" width="55%"/>
+  <sub>🔵 Circular-style skill visualization using animated badges</sub>
 </p>
 
 ---
 
-# 📊 GitHub Stats  
+# 📈 LeetCode Problem Solving Progress
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Arrays-90%25-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dynamic%20Programming-85%25-yellow?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <img src="https://img.shields.io/badge/Math-80%25-blue?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hashing-75%25-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Strings-70%25-red?style=for-the-badge&logo=leetcode&logoColor=white" />
+</p>
+
+---
+
+# 📊 LeetCode Graph Visualization (Animated)
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/KalpeshDesale_938707?theme=dark&font=Roboto&ext=activity" width="50%"/>
+</p>
+
+<p align="center">
+  💡 Animated LeetCode graph shows daily progress, streaks, and consistency.  
+  🏆 Helps visualize growth in problem-solving skills over time.
+</p>
+
+
+# 📊 GitHub Stats & Graphs
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=123kalpesh&theme=react-dark&hide_border=true" width="48%"/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=123kalpesh&theme=react-dark&hide_border=true" width="48%"/>
@@ -94,79 +136,69 @@
 
 ---
 
-# 🚀 Top Showcase Projects  
-### **(Hover to Change Color – Premium Square Cards)**
-
-<style>
-.project-card {
-  border-radius: 12px;
-  padding: 18px;
-  width: 260px;
-  height: 230px;
-  color: white;
-  transition: 0.3s;
-  display: inline-block;
-  margin: 10px;
-}
-.project-card:hover {
-  transform: scale(1.06);
-  filter: brightness(1.2);
-}
-</style>
+# 🚀 Top Showcase Projects
 
 <div align="center">
 
-<div class="project-card" style="background:#4caf50;">
-  <b>🎯 AI Voice-to-Notes Converter</b><br><br>
-  <sub>Python • Speech Recognition • AI Filtering</sub><br><br>
-  Converts speech into clean formatted notes.<br><br>
-  ⭐⭐⭐⭐<br>
-  🔗 <a href="https://github.com/123kalpesh/AI_Voice-to-Notes_Converter" style="color:white;">GitHub</a>
+<table>
+  <tr>
+    <td align="center" width="300" bgcolor="#4caf50" style="border-radius:10px;padding:15px;color:white;">
+      <b>🎯 AI Voice-to-Notes Converter</b><br>
+      <sub>Python, Speech Recognition, AI Noise Filtering</sub><br>
+      Converts speech into notes with AI-powered noise cleaning.<br>
+      <img src="https://img.shields.io/badge/Skill-⭐️⭐️⭐️⭐️-brightgreen" /><br>
+      🔗 <a href="https://github.com/123kalpesh/AI_Voice-to-Notes_Converter" style="color:white;">GitHub</a>
+    </td>
+<
+    <td align="center" width="300" bgcolor="#2196f3" style="border-radius:10px;padding:15px;color:white;">
+      <b>🛒 E-Commerce Mini App</b><br>
+      <sub>Django, React, JWT, TailwindCSS</sub><br>
+      Full-stack e-commerce app with product CRUD, cart, and payment.<br>
+      <img src="https://img.shields.io/badge/Skill-⭐️⭐️⭐️⭐️-blue" /><br>
+      🔗 <a href="https://github.com/123kalpesh/E-Commerce-Mini-App" style="color:white;">GitHub</a>
+    </td>
+<
+    <td align="center" width="300" bgcolor="#ff9800" style="border-radius:10px;padding:15px;color:white;">
+      <b>📘 Contract-Based Farming System</b><br>
+      <sub>Django, React, REST API</sub><br>
+      Tracks farmer contracts, crop lifecycle, and buyer negotiations.<br>
+      <img src="https://img.shields.io/badge/Skill-⭐️⭐️⭐️⭐️⭐️-brightgreen" /><br>
+      🔗 <a href="https://github.com/123kalpesh/Contract-Based-Farming" style="color:white;">GitHub</a>
+    </td>
+  </tr>
+
+  <tr><td colspan="3"><br></td></tr>
+<
+  <tr>
+    <td align="center" width="300" bgcolor="#9c27b0" style="border-radius:10px;padding:15px;color:white;">
+      <b>🧠 AI Chatbot / NLP Project</b><br>
+      <sub>Python, NLP, ML Models</sub><br>
+      Unified AI chatbot with NLP and ML integration.<br>
+      <img src="https://img.shields.io/badge/Skill-⭐️⭐️⭐️-yellow" /><br>
+      🔗 <a href="https://github.com/123kalpesh/AI-Chatbot-NLP" style="color:white;">GitHub</a>
+    </td>
+
+  <  <td align="center" width="300" bgcolor="#f44336" style="border-radius:10px;padding:15px;color:white;">
+      <b>💻 Aarogyanidhanam: AI Diagnostic Tool</b><br>
+      <sub>Python, AI, ML, Healthcare</sub><br>
+      AI-based diagnostic tool for medical image analysis.<br>
+      <img src="https://img.shields.io/badge/Skill-⭐️⭐️⭐️⭐️⭐️-red" /><br>
+      🔗 <a href="https://github.com/123kalpesh/Aarogyanidhanam" style="color:white;">GitHub</a>
+    </td>
+
+  </tr>
+</table>
+
 </div>
 
-<div class="project-card" style="background:#2196f3;">
-  <b>🛒 E-Commerce Mini App</b><br><br>
-  <sub>Django • React • JWT • Tailwind</sub><br><br>
-  Full-stack cart, CRUD, payments system.<br><br>
-  ⭐⭐⭐⭐<br>
-  🔗 <a href="https://github.com/123kalpesh/E-Commerce-Mini-App" style="color:white;">GitHub</a>
-</div>
 
-<div class="project-card" style="background:#ff9800;">
-  <b>📘 Contract-Based Farming System</b><br><br>
-  <sub>Django • React • REST API</sub><br><br>
-  Contract lifecycle + negotiation system.<br><br>
-  ⭐⭐⭐⭐⭐<br>
-  🔗 <a href="https://github.com/123kalpesh/Contract-Based-Farming" style="color:white;">GitHub</a>
-</div>
 
-<div class="project-card" style="background:#9c27b0;">
-  <b>🧠 AI Chatbot / NLP System</b><br><br>
-  <sub>Python • NLP • ML</sub><br><br>
-  Multi-model NLP chatbot with knowledge base.<br><br>
-  ⭐⭐⭐<br>
-  🔗 <a href="#" style="color:white;">GitHub</a>
-</div>
-
-<div class="project-card" style="background:#f44336;">
-  <b>💻 Aarogyanidhanam<br>AI Diagnostic Tool</b><br><br>
-  <sub>AI • ML • Healthcare</sub><br><br>
-  Medical image AI diagnosis assistant.<br><br>
-  ⭐⭐⭐⭐⭐<br>
-  🔗 <a href="https://github.com/123kalpesh/Aarogyanidhanam" style="color:white;">GitHub</a>
-</div>
-
-</div>
+# 🎨 Portfolio
+👉 [Live Portfolio](https://my-portfolio-nine-delta-80.vercel.app/)  
 
 ---
 
-# 🎨 Portfolio  
-👉 **Live Portfolio:**  
-**https://my-portfolio-nine-delta-80.vercel.app/**  
-
----
-
-# 💠 Fun Badges  
+# 💠 Fun Badges
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=123kalpesh&label=Profile%20Views&color=blue&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Coder-Rising%20Star-green?style=for-the-badge"/>
@@ -176,5 +208,6 @@
 
 ---
 
-# 🏁 Quote  
+# 🏁 Quote
 <p align="center"><i>"Code it. Break it. Fix it. Master it." 🖤</i></p>
+
