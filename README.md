@@ -6,9 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=300&center=true&vCenter=true&width=500&lines=Hey+There%2C+I'm+Kalpesh+Desale!;Full-Stack+Developer;AI+Engineer+%7C+Python+%7C+Django+%7C+React;Problem+Solver+%7C+Learner+%7C+Creator" />
 </h1>
 
-<p align="center">
-  <img src="https://github.com/123kalpesh.png" width="170" style="border-radius:50%;"/>
-</p>
 
 <p align="center">
   <b>🚀 Full-Stack Developer | 🤖 AI/ML Enthusiast | 💡 Problem Solver | 🇮🇳 India</b>
