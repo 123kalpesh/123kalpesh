@@ -142,7 +142,7 @@
       <img src="https://img.shields.io/badge/Skill-⭐️⭐️⭐️⭐️-blue" /><br>
       🔗 <a href="https://github.com/123kalpesh/E-Commerce-Mini-App" style="color:white;">GitHub</a>
     </td>
-
+<
     <td align="center" width="300" bgcolor="#ff9800" style="border-radius:10px;padding:15px;color:white;">
       <b>📘 Contract-Based Farming System</b><br>
       <sub>Django, React, REST API</sub><br>
