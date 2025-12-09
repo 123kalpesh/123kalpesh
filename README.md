@@ -123,57 +123,76 @@
 
 # 🚀 Top Showcase Projects
 
-<div align="center">
+<div style="display:flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
-### 🎯 AI Voice-to-Notes Converter
-**Tech Stack:** Python, Speech Recognition, AI Noise Filtering  
-**Description:** Converts speech into notes with AI-powered noise cleaning, supports multiple languages, and allows easy export to text files. Perfect for lectures, meetings, and personal notes.  
-**Skill Level:** <img src="https://img.shields.io/badge/Skill%20Level-⭐️⭐️⭐️⭐️-brightgreen" />  
-🔗 [GitHub Repository](https://github.com/123kalpesh/AI_Voice-to-Notes_Converter)
+  <!-- Project 1 -->
+  <div style="width: 250px; height: 200px; background: #4caf50; border-radius: 15px; padding: 15px; transition: 0.3s; color:white; box-shadow: 0px 5px 15px rgba(0,0,0,0.3);"
+       onmouseover="this.style.background='#66bb6a'" 
+       onmouseout="this.style.background='#4caf50'">
+    <h3>🎯 AI Voice-to-Notes Converter</h3>
+    <p>Python, Speech Recognition, AI Noise Filtering</p>
+    <p>Converts speech into notes with AI-powered noise cleaning.</p>
+    <img src="https://img.shields.io/badge/Skill-⭐️⭐️⭐️⭐️-brightgreen" />
+    <br><a href="https://github.com/123kalpesh/AI_Voice-to-Notes_Converter" style="color:white; text-decoration: underline;">GitHub</a>
+  </div>
 
----
+  <!-- Project 2 -->
+  <div style="width: 250px; height: 200px; background: #2196f3; border-radius: 15px; padding: 15px; transition: 0.3s; color:white; box-shadow: 0px 5px 15px rgba(0,0,0,0.3);"
+       onmouseover="this.style.background='#42a5f5'" 
+       onmouseout="this.style.background='#2196f3'">
+    <h3>🛒 E-Commerce Mini App</h3>
+    <p>Django, React, JWT, TailwindCSS</p>
+    <p>Full-stack e-commerce app with product CRUD, cart, and payment.</p>
+    <img src="https://img.shields.io/badge/Skill-⭐️⭐️⭐️⭐️-blue" />
+    <br><a href="https://github.com/123kalpesh/E-Commerce-Mini-App" style="color:white; text-decoration: underline;">GitHub</a>
+  </div>
 
-### 🛒 E-Commerce Mini App
-**Tech Stack:** Django, React, JWT Auth, TailwindCSS, REST API  
-**Description:** Full-stack e-commerce application with product CRUD operations, shopping cart, payment integration, user authentication, and responsive design. Demonstrates end-to-end web development skills.  
-**Skill Level:** <img src="https://img.shields.io/badge/Skill%20Level-⭐️⭐️⭐️⭐️-blue" />  
-🔗 [GitHub Repository](https://github.com/123kalpesh/E-Commerce-Mini-App)
+  <!-- Project 3 -->
+  <div style="width: 250px; height: 200px; background: #ff9800; border-radius: 15px; padding: 15px; transition: 0.3s; color:white; box-shadow: 0px 5px 15px rgba(0,0,0,0.3);"
+       onmouseover="this.style.background='#ffb74d'" 
+       onmouseout="this.style.background='#ff9800'">
+    <h3>📘 Contract-Based Farming System</h3>
+    <p>Django, React, REST API</p>
+    <p>Tracks farmer contracts, crop lifecycle, and buyer negotiations.</p>
+    <img src="https://img.shields.io/badge/Skill-⭐️⭐️⭐️⭐️⭐️-brightgreen" />
+    <br><a href="https://github.com/123kalpesh/Contract-Based-Farming" style="color:white; text-decoration: underline;">GitHub</a>
+  </div>
 
----
+  <!-- Project 4 -->
+  <div style="width: 250px; height: 200px; background: #9c27b0; border-radius: 15px; padding: 15px; transition: 0.3s; color:white; box-shadow: 0px 5px 15px rgba(0,0,0,0.3);"
+       onmouseover="this.style.background='#ba68c8'" 
+       onmouseout="this.style.background='#9c27b0'">
+    <h3>🧠 AI Chatbot / NLP Project</h3>
+    <p>Python, NLP, ML Models</p>
+    <p>Unified AI chatbot with NLP and ML integration for real-time responses.</p>
+    <img src="https://img.shields.io/badge/Skill-⭐️⭐️⭐️-yellow" />
+    <br><a href="https://github.com/123kalpesh/AI-Chatbot-NLP" style="color:white; text-decoration: underline;">GitHub</a>
+  </div>
 
-### 📘 Contract-Based Farming System
-**Tech Stack:** Django, React, REST API  
-**Description:** Tracks farmer contracts, crop lifecycle, and buyer-farmer negotiations. Includes dashboard for monitoring contract progress, notifications for updates, and analytics for crop management.  
-**Skill Level:** <img src="https://img.shields.io/badge/Skill%20Level-⭐️⭐️⭐️⭐️⭐️-brightgreen" />  
-🔗 [GitHub Repository](https://github.com/123kalpesh/Contract-Based-Farming)
+  <!-- Project 5 -->
+  <div style="width: 250px; height: 200px; background: #f44336; border-radius: 15px; padding: 15px; transition: 0.3s; color:white; box-shadow: 0px 5px 15px rgba(0,0,0,0.3);"
+       onmouseover="this.style.background='#e57373'" 
+       onmouseout="this.style.background='#f44336'">
+    <h3>💻 Aarogyanidhanam: AI Diagnostic Tool</h3>
+    <p>Python, AI, ML, Healthcare</p>
+    <p>AI-based diagnostic tool for medical image analysis and predictions.</p>
+    <img src="https://img.shields.io/badge/Skill-⭐️⭐️⭐️⭐️⭐️-red" />
+    <br><a href="https://github.com/123kalpesh/Aarogyanidhanam" style="color:white; text-decoration: underline;">GitHub</a>
+  </div>
 
----
-
-### 🧠 AI Chatbot / NLP Project
-**Tech Stack:** Python, NLP, ML Models  
-**Description:** Unified AI chatbot integrating NLP and ML for real-time intelligent responses. Capable of handling multi-turn conversations and providing context-aware answers.  
-**Skill Level:** <img src="https://img.shields.io/badge/Skill%20Level-⭐️⭐️⭐️-yellow" />  
-🔗 [GitHub Repository](https://github.com/123kalpesh/AI-Chatbot-NLP)
-
----
-
-### 💻 Aarogyanidhanam: AI Diagnostic Tool
-**Tech Stack:** Python, AI, ML, Healthcare  
-**Description:** AI-based diagnostic tool for medical image analysis and predictive diagnostics. Supports multiple disease detection, risk prediction, and generates easy-to-read diagnostic reports for healthcare professionals.  
-**Skill Level:** <img src="https://img.shields.io/badge/Skill%20Level-⭐️⭐️⭐️⭐️⭐️-red" />  
-🔗 [GitHub Repository](https://github.com/123kalpesh/Aarogyanidhanam)
-
----
-
-### 🐍 Snake Game
-**Tech Stack:** Canvas, JavaScript  
-**Description:** Classic Snake Game with smooth animation, high-speed gameplay, score tracking, and responsive controls. A fun project demonstrating interactive front-end programming.  
-**Skill Level:** <img src="https://img.shields.io/badge/Skill%20Level-⭐️⭐️⭐️-orange" />  
-🔗 [GitHub Repository](https://github.com/123kalpesh/Snake-Game)
+  <!-- Project 6 -->
+  <div style="width: 250px; height: 200px; background: #ff5722; border-radius: 15px; padding: 15px; transition: 0.3s; color:white; box-shadow: 0px 5px 15px rgba(0,0,0,0.3);"
+       onmouseover="this.style.background='#ff8a65'" 
+       onmouseout="this.style.background='#ff5722'">
+    <h3>🐍 Snake Game</h3>
+    <p>Canvas, JavaScript</p>
+    <p>Classic game with smooth animation, high-speed gameplay, and score tracking.</p>
+    <img src="https://img.shields.io/badge/Skill-⭐️⭐️⭐️-orange" />
+    <br><a href="https://github.com/123kalpesh/Snake-Game" style="color:white; text-decoration: underline;">GitHub</a>
+  </div>
 
 </div>
 
----
 
 # 🎨 Portfolio
 👉 [Live Portfolio](https://my-portfolio-nine-delta-80.vercel.app/)  
