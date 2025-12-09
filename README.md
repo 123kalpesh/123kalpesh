@@ -138,15 +138,6 @@
       <img src="https://img.shields.io/badge/Skill%20Level-⭐️⭐️⭐️⭐️⭐️-red" /><br>
       🔗 <a href="https://github.com/123kalpesh/Aarogyanidhanam">GitHub</a>
     </td>
-
-    <!-- Project 6 -->
-    <td align="center" width="250px">
-      <b>🐍 Snake Game</b><br>
-      <sub>Canvas, JavaScript</sub><br>
-      Classic game with smooth animation and high-speed gameplay.<br>
-      <img src="https://img.shields.io/badge/Skill%20Level-⭐️⭐️⭐️-orange" /><br>
-      🔗 <a href="https://github.com/123kalpesh/Snake-Game">GitHub</a>
-    </td>
   </tr>
 </table>
 
