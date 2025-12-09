@@ -32,42 +32,58 @@
 
 ---
 
-# 🛠 My Skills
+# 🛠️ My Skills
+
 <p align="center">
-  <b>Languages</b>
+  <b>Programming Languages</b>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-90%25-brightgreen?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-85%25-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-80%25-yellow?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Java-75%25-red?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-70%25-orange?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=python,cpp,javascript,java,sql" height="60" />
 </p>
+
+---
 
 <p align="center">
   <b>Frameworks & Libraries</b>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React-85%25-61dafb?style=for-the-badge&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-90%25-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-80%25-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Next.js-75%25-black?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind-85%25-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=react,django,flask,nextjs,tailwind" height="60" />
 </p>
+
+---
 
 <p align="center">
   <b>Tools & Platforms</b>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Git-90%25-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-95%25-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vercel-80%25-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VsCode-85%25-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-70%25-FCC624?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,linux" height="60" />
 </p>
+
+---
+
+# 🤖 AI / ML Skills (Circular Progress Simulation)
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/AI-90%25-brightgreen?style=for-the-badge&logo=opencv&logoColor=white&labelColor=000000"/>
+<img src="https://img.shields.io/badge/ML-85%25-blue?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=000000"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-80%25-red?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=000000"/>
+<img src="https://img.shields.io/badge/NLP-75%25-yellow?style=for-the-badge&logo=transformers&logoColor=white&labelColor=000000"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-85%25-orange?style=for-the-badge&logo=opencv&logoColor=white&labelColor=000000"/>
+
+</p>
+
+---
+
+# ⚡ Cool Circular Graph Version (SVG)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/123kalpesh/progress-cards/main/ai-ml-circular.svg" width="400"/>
+</p>
+
 
 ---
 # 🧾 LeetCode Progress & Problem Solving Stats
