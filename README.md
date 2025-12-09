@@ -34,68 +34,57 @@
 
 # 🛠️ My Skills
 
-<p align="center">
-  <b>Programming Languages</b>
-</p>
-
+## 💻 Programming Languages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,javascript,java,sql" height="60" />
 </p>
 
 ---
 
+## ⚡ Web & Full-Stack Development
 <p align="center">
-  <b>Frameworks & Libraries</b>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,django,flask,nextjs,tailwind" height="60" />
+  <img src="https://skillicons.dev/icons?i=react,django,flask,nextjs,tailwind,nodejs" height="60" />
 </p>
 
 ---
 
-<p align="center">
-  <b>Tools & Platforms</b>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,linux" height="60" />
-</p>
-
----
-
-# 🤖 AI / ML Skills (Circular Progress Simulation)
-
+## 🤖 AI / ML / Data Science Skills
 <p align="center">
 
+<!-- Circular style simulated using progress badges -->
 <img src="https://img.shields.io/badge/AI-90%25-brightgreen?style=for-the-badge&logo=opencv&logoColor=white&labelColor=000000"/>
-<img src="https://img.shields.io/badge/ML-85%25-blue?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=000000"/>
-<img src="https://img.shields.io/badge/Deep%20Learning-80%25-red?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=000000"/>
+<img src="https://img.shields.io/badge/Machine_Learning-85%25-blue?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=000000"/>
+<img src="https://img.shields.io/badge/Deep_Learning-80%25-red?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=000000"/>
 <img src="https://img.shields.io/badge/NLP-75%25-yellow?style=for-the-badge&logo=transformers&logoColor=white&labelColor=000000"/>
-<img src="https://img.shields.io/badge/Computer%20Vision-85%25-orange?style=for-the-badge&logo=opencv&logoColor=white&labelColor=000000"/>
+<img src="https://img.shields.io/badge/Computer_Vision-85%25-orange?style=for-the-badge&logo=opencv&logoColor=white&labelColor=000000"/>
 
+</p>
+
+<p align="center">
+  <sub>⭐ Circular-style AI/ML skill visualization (simulated using badges)</sub>
 </p>
 
 ---
 
-# ⚡ Cool Circular Graph Version (SVG)
-
+## 🛠 Tools & Platforms
 <p align="center">
-  <img src="https://raw.githubusercontent.com/123kalpesh/progress-cards/main/ai-ml-circular.svg" width="400"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,docker,linux" height="60" />
 </p>
-
 
 ---
-# 🧾 LeetCode Progress & Problem Solving Stats
 
+## 🔧 Data & Analytics
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/KalpeshDesale_938707?theme=dark&font=Roboto&ext=contest" width="70%"/>
+  <img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib,seaborn,plotly,sql" height="60" />
 </p>
 
+---
+
+## 🎯 Competitive Programming & DSA
 <p align="center">
-  <b>⭐ Problems Solved:</b> 177+ &nbsp;&nbsp;|&nbsp;&nbsp;
-  <b>🔥 Ranking:</b> Rising Fast &nbsp;&nbsp;|&nbsp;&nbsp;
-  <b>⚔ Strength:</b> Arrays, DP, Math, Hashing
+  <img src="https://img.shields.io/badge/DSA-85%25-brightgreen?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LeetCode-80%25-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Problem_Solving-90%25-blue?style=for-the-badge"/>
 </p>
 
 ---
