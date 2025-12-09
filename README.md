@@ -92,9 +92,7 @@ Azure · Google Cloud · Docker · Git · GitHub
   <img src="https://github-readme-stats.vercel.app/api?username=123kalpesh&show_icons=true&theme=blue_navy&hide_border=true" width="435"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=123kalpesh&theme=react-dark&hide_border=true" width="95%"/>
-</p>
+
 
 ---
 
