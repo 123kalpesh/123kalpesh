@@ -17,6 +17,7 @@
   <a href="https://www.linkedin.com/in/kalpesh-desale-401566393/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://leetcode.com/u/KalpeshDesale_938707/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
   <a href="https://my-portfolio-nine-delta-80.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://github.com/123kalpesh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
@@ -31,11 +32,11 @@
 
 ---
 
-# 🛠 Skills & Expertise
+# 🛠 Skills & Animated Progress Bars
 
 ### Languages
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-90%25-brightgreen?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-90%25-brightgreen?style=for-the-badge&logo=python&logoColor=white&animation=spin"/>
   <img src="https://img.shields.io/badge/C++-85%25-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-80%25-yellow?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Java-75%25-red?style=for-the-badge&logo=java&logoColor=white"/>
@@ -62,7 +63,7 @@
 
 ---
 
-# 📊 GitHub Stats & Graphs
+# 📊 GitHub Stats & Contribution Graphs
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=123kalpesh&theme=react-dark&hide_border=true" width="48%"/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=123kalpesh&theme=react-dark&hide_border=true" width="48%"/>
@@ -75,31 +76,14 @@
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Featured Projects with Smooth Progress Bars
 
-<div align="center">
-
-### 🎯 AI Voice-to-Notes Converter
-![GIF](https://media.giphy.com/media/l0MYy6aPhK9hOZj1C/giphy.gif)  
-**Features:** Speech → Text, AI Noise Cleaning, Cross-platform  
-🔗 [GitHub](https://github.com/123kalpesh/AI_Voice-to-Notes_Converter)
-
-### 🛒 E-Commerce Mini App
-![GIF](https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif)  
-**Features:** Cart, Payment, Product CRUD, JWT Auth  
-🔗 [GitHub](https://github.com/123kalpesh/E-Commerce-Mini-App)
-
-### 📘 Contract-Based Farming System
-![GIF](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)  
-**Features:** Tracks Contracts, Crop Lifecycle, Buyer-Farmer Negotiation  
-🔗 [GitHub](https://github.com/123kalpesh/Contract-Based-Farming)
-
-### 🐍 Snake Game
-![GIF](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif)  
-**Features:** Classic Canvas Game, Smooth Animation  
-🔗 [GitHub](https://github.com/123kalpesh/Snake-Game)
-
-</div>
+| Project | Description | Completion |
+|---------|-------------|------------|
+| **AI Voice-to-Notes Converter** | Converts speech → text, AI noise cleaning, cross-platform | ![90%](https://img.shields.io/badge/Progress-90%25-brightgreen) |
+| **E-Commerce Mini App** | Cart + Payment, Product CRUD, JWT Auth | ![85%](https://img.shields.io/badge/Progress-85%25-blue) |
+| **Contract-Based Farming System** | Tracks contracts, crop lifecycle, buyer-farmer negotiation | ![80%](https://img.shields.io/badge/Progress-80%25-orange) |
+| **Snake Game** | Canvas + JS, smooth animation, classic gameplay | ![75%](https://img.shields.io/badge/Progress-75%25-red) |
 
 ---
 
