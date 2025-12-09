@@ -70,6 +70,43 @@
 </p>
 
 ---
+# 🧾 LeetCode Progress & Problem Solving Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/KalpeshDesale_938707?theme=dark&font=Roboto&ext=contest" width="70%"/>
+</p>
+
+<p align="center">
+  <b>⭐ Problems Solved:</b> 177+ &nbsp;&nbsp;|&nbsp;&nbsp;
+  <b>🔥 Ranking:</b> Rising Fast &nbsp;&nbsp;|&nbsp;&nbsp;
+  <b>⚔ Strength:</b> Arrays, DP, Math, Hashing
+</p>
+
+---
+
+# 📈 LeetCode Problem Solving Progress
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Arrays-90%25-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dynamic%20Programming-85%25-yellow?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <img src="https://img.shields.io/badge/Math-80%25-blue?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hashing-75%25-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Strings-70%25-red?style=for-the-badge&logo=leetcode&logoColor=white" />
+</p>
+
+---
+
+# 📊 LeetCode Graph Visualization (Animated)
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/KalpeshDesale_938707?theme=dark&font=Roboto&ext=activity" width="90%"/>
+</p>
+
+<p align="center">
+  💡 Animated LeetCode graph shows daily progress, streaks, and consistency.  
+  🏆 Helps visualize growth in problem-solving skills over time.
+</p>
+
 
 # 📊 GitHub Stats & Graphs
 <p align="center">
