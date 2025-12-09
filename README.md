@@ -99,7 +99,7 @@
 # 📊 LeetCode Graph Visualization (Animated)
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/KalpeshDesale_938707?theme=dark&font=Roboto&ext=activity" width="90%"/>
+  <img src="https://leetcard.jacoblin.cool/KalpeshDesale_938707?theme=dark&font=Roboto&ext=activity" width="50%"/>
 </p>
 
 <p align="center">
